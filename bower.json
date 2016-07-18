@@ -1,0 +1,12 @@
+{
+  "name": "parallax-site",
+  "version": "1.0.0",
+  "description": "Parallax Site",
+  "authors": [
+    "Arip Hidayat"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

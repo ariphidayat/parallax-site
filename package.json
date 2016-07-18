@@ -1,0 +1,13 @@
+{
+  "name": "parallax-site",
+  "version": "1.0.0",
+  "description": "Parallax Site",
+  "author": "Arip Hidayat",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-wiredep": "^2.0.0"
+  }
+}
